@@ -1,4 +1,3 @@
-from functools import partialmethod
 import requests
 import json
 import pandas as pd
